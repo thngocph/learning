@@ -4,3 +4,4 @@ Third Greeting From GitHub
 hello in main
 continue developing on dev branch
 we develop feature A
+we develop feature B
