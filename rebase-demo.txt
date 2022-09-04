@@ -1,1 +1,1 @@
-first line of rebase-demo
+First line of rebase-demo!
